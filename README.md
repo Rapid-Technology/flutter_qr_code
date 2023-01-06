@@ -1,4 +1,4 @@
-# flutter_generate_qr_code
+# Flutter Generate QR Code
 
 A new Flutter project.
 
