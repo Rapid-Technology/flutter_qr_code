@@ -1,6 +1,6 @@
 # Flutter Generate QR Code
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/hDYZ3aDhrak/maxresdefault.jpg)](https://www.youtube.com/watch?v=hDYZ3aDhrak)
 
 ## Getting Started
 
